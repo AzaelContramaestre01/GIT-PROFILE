@@ -1,0 +1,6 @@
+# GIT-PROFILE
+made with CSS, HTML, and Vainilla JS, for practice purposes.
+
+# JUST OPEN WITH LIVE SERVER
+
+#IN SEARCH BAR WRITE THE GITHUB YOU WANT TO SHOW
